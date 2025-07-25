@@ -1,0 +1,1 @@
+Use the LIWC app on the prepared_for_liwc.csv file, with Content as the text column.
